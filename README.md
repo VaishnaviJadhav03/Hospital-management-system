@@ -1,16 +1,21 @@
 # Hospital-management-system          
 
 Features  
+
 Admin  
 .admin can add doctors,edit doctors  
 .view patents details  
 .view booking of patient  
+
 Patients(clent)  
 .make appointment online  
+
 Doctors  
+
 .view the appointment  
 .create account themselves  
-.edit account setting
+.edit account setting  
+
 Get started  
 1.open youe XAMPP control panel start Apache and Mysql  
 2.extract the download source code zip file
