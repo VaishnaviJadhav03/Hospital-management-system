@@ -1,5 +1,6 @@
-# Hospital-management-system
-Features
+# Hospital-management-system          
+
+Features  
 Admin
 .admin can add doctors,edit doctors
 .view patents details
